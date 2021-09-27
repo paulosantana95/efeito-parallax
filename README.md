@@ -1,4 +1,4 @@
 # efeito-parallax
 Projeto feito para praticar efeito Parallax com CSS3.
 
-[Imgur](https://i.imgur.com/xAUXuIh.gifv)
+![screen-cast-gif](https://github.com/paulosantana95/efeito-parallax/blob/master/imagens/ezgif.com-gif-maker.gif)
